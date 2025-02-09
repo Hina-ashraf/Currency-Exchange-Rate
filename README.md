@@ -1,8 +1,8 @@
-**#CURRENCY EXCHANGE RATES**
+**CURRENCY EXCHANGE RATES**
 
 A Java-based application that retrieves and displays current currency exchange rates.
 
-**#Prerequisites**:
+**Prerequisites**:
 
 Before you begin, ensure you have the following installed:
 
