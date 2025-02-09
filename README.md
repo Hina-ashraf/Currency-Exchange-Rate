@@ -25,9 +25,13 @@ API_URL = "https://openexchangerates.org/api/latest.json?app_id=64f128ce2c71431b
 **Dependencies**:
 
 This Application Uses Following Dependencies:
+
 1.Spring Boot:For building the application.
+
 2.Rest Template:To make HTTP request to external APIs.
+
 3.Spring Web:To enable features for building web applications and RESTful APIs.
+
 4.Lombok:It helps you avoid writing repetitive getter/setter methods, constructors and other utility methods. these are specified in the pom.xml file and will be managed by maven.
 
 
