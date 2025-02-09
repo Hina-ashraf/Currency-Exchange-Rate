@@ -22,9 +22,11 @@ cd Currency-Exchange-Rate
 Use Maven to build the project and resolve dependencies mvn clean install
 
 **Running the Application**:
+
 After building, you can run the application using the following command: java -jar target/Currency-Exchange-Rate- 
 
-**Usage**: Once the application is running, it will fetch and display the latest currency exchange rates. Ensure you have an active internet connection, as the application retrieves data from external APIs. 
+**Usage**: 
+Once the application is running, it will fetch and display the latest currency exchange rates. Ensure you have an active internet connection, as the application retrieves data from external APIs. 
 Due to no subscription in open exchange rates can only access USD. 
 
 API_URL = "https://openexchangerates.org/api/latest.json?app_id=64f128ce2c71431b9d61678da6afeae7&base=USD"
