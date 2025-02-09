@@ -1,4 +1,4 @@
-**#currency-exchange-rate-**
+**#CURRENCY EXCHANGE RATES**
 
 A Java-based application that retrieves and displays current currency exchange rates.
 
