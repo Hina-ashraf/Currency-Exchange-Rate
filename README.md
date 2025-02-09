@@ -5,7 +5,9 @@ A Java-based application that retrieves and displays current currency exchange r
 **#Prerequisites**:
 
 Before you begin, ensure you have the following installed:
+
 **Java Development Kit (JDK) 8 or higher**: [Download JDK](https://www.oracle.com/java/technologies/javase-jdk11-downloads.html)
+
 **Apache Maven**: [Download Maven](https://maven.apache.org/download.cgi)
 
 
@@ -26,6 +28,7 @@ Use Maven to build the project and resolve dependencies mvn clean install
 After building, you can run the application using the following command: java -jar target/Currency-Exchange-Rate- 
 
 **Usage**: 
+
 Once the application is running, it will fetch and display the latest currency exchange rates. Ensure you have an active internet connection, as the application retrieves data from external APIs. 
 Due to no subscription in open exchange rates can only access USD. 
 
